@@ -1,6 +1,6 @@
 import {questions} from './pergunta.js'
 import { Quiz } from './quiz.js'
-import {UI} from './ul'
+import {UI} from './ul.js'
 
 /**
  * 
